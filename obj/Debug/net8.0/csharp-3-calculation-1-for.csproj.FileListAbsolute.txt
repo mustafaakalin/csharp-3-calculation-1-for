@@ -1,0 +1,14 @@
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/bin/Debug/net8.0/csharp-3-calculation-1-for
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/bin/Debug/net8.0/csharp-3-calculation-1-for.deps.json
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/bin/Debug/net8.0/csharp-3-calculation-1-for.runtimeconfig.json
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/bin/Debug/net8.0/csharp-3-calculation-1-for.dll
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/bin/Debug/net8.0/csharp-3-calculation-1-for.pdb
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/obj/Debug/net8.0/csharp-3-calculation-1-for.GeneratedMSBuildEditorConfig.editorconfig
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/obj/Debug/net8.0/csharp-3-calculation-1-for.AssemblyInfoInputs.cache
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/obj/Debug/net8.0/csharp-3-calculation-1-for.AssemblyInfo.cs
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/obj/Debug/net8.0/csharp-3-calculation-1-for.csproj.CoreCompileInputs.cache
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/obj/Debug/net8.0/csharp-3-calculation-1-for.dll
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/obj/Debug/net8.0/refint/csharp-3-calculation-1-for.dll
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/obj/Debug/net8.0/csharp-3-calculation-1-for.pdb
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/obj/Debug/net8.0/csharp-3-calculation-1-for.genruntimeconfig.cache
+/home/mustafa/Documents/projects/csharp/csharp-3-calculation-1-for/obj/Debug/net8.0/ref/csharp-3-calculation-1-for.dll
